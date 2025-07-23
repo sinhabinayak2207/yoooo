@@ -1,18 +1,10 @@
-// For static export, we need to use a static image instead of ImageResponse
+// Remove the icon.tsx route handler completely and use a static favicon
+// This is a simple file that won't be used in the static export
 
 export const dynamic = 'force-static'
 
-// Image metadata
-export const size = {
-  width: 32,
-  height: 32,
-}
-export const contentType = 'image/png'
-
-// For static export, we'll redirect to a static favicon
+// This is a simple placeholder that won't be used
+// The actual favicon is in the public directory
 export default function Icon() {
-  // Return a simple redirect to the static favicon
-  return {
-    url: '/favicon.ico',
-  }
+  return null
 }
