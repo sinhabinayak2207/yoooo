@@ -24,7 +24,7 @@ export function generateMetadata({ params }: { params: { category: string } }): 
   }
   
   return {
-    title: `${category.title} Products - B2B Showcase`,
+    title: `${category.title} Products - Occ World Trade`,
     description: category.description || '',
   };
 }

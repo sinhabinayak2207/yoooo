@@ -9,7 +9,7 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://yourdomain.com';
 export const defaultMetadata: Metadata = {
   title: {
     default: 'OCC WORLD TRADE | Premium Industrial Solutions',
-    template: '%s | B2B Showcase'
+    template: '%s | Occ World Trade'
   },
   description: 'Leading provider of industrial solutions with premium products and expert services for businesses worldwide.',
   keywords: ['B2B', 'industrial', 'manufacturing', 'solutions', 'products', 'services'],

@@ -4,8 +4,8 @@ import ContactForm from "../../components/contact/ContactForm";
 import ContactInfo from "../../components/contact/ContactInfo";
 
 export const metadata: Metadata = {
-  title: 'Contact Us - B2B Showcase',
-  description: 'Get in touch with B2B Showcase for inquiries about our products and services. We are here to help with your bulk commodity needs.',
+  title: 'Contact Us - Occ World Trade',
+  description: 'Get in touch with Occ World Trade for inquiries about our products and services. We are here to help with your bulk commodity needs.',
 };
 
 export default function ContactPage() {

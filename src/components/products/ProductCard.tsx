@@ -88,7 +88,7 @@ const ProductCard = ({
   }, [id]);
   
   // Create mailto link with product title in subject
-  const mailtoLink = `mailto:info@b2bshowcase.com?subject=Inquiry about ${title}&body=I am interested in learning more about ${title}.`;
+  const mailtoLink = `mailto:trade@occworldtrade.com?subject=Inquiry about ${title}&body=I am interested in learning more about ${title}.`;
 
   return (
     <div 
