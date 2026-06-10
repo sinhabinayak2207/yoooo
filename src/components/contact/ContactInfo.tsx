@@ -12,7 +12,13 @@ const ContactInfo = () => {
         </svg>
       ),
       title: 'Our Locations',
-      content: 'OCC WORLD TRADE \n204, Meridian House, Sector 8,Gandhidham Kutch\n Pincode: 370201'
+      content: '
+      Occ World Trade \n
+Office no  18A \n
+Port Users Complex\n
+Pipavav Port - 365 560\n
+Ta - Rajula Dist. Amreli\n
+Gujarat, India'
     },
     {
       icon: (
@@ -62,7 +68,7 @@ const ContactInfo = () => {
               <h4 className="text-lg font-semibold">{item.title}</h4>
               {index === 3 ? (
                 <a 
-                  href="https://maps.app.goo.gl/aDByo2g6FKJpDZvL9" 
+                  href="https://maps.app.goo.gl/eoJcjgCGj4N27ghZA?g_st=aw" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors whitespace-pre-line"
