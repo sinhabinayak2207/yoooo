@@ -12,13 +12,7 @@ const ContactInfo = () => {
         </svg>
       ),
       title: 'Our Locations',
-      content: '
-      Occ World Trade \n
-Office no  18A \n
-Port Users Complex \n
-Pipavav Port - 365 560\n
-Ta - Rajula Dist. Amreli\n
-Gujarat, India'
+      content: 'Occ World Trade \n Office no  18A \n Port Users Complex \n Pipavav Port - 365 560\n Ta - Rajula Dist. Amreli\n Gujarat, India.'
     },
     {
       icon: (
