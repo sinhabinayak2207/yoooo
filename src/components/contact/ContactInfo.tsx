@@ -15,7 +15,7 @@ const ContactInfo = () => {
       content: '
       Occ World Trade \n
 Office no  18A \n
-Port Users Complex\n
+Port Users Complex \n
 Pipavav Port - 365 560\n
 Ta - Rajula Dist. Amreli\n
 Gujarat, India'
